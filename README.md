@@ -1,4 +1,4 @@
-# MusicFreePlugins
+# MusicFreePlugin
 musicfree音乐源/music插件
 ### 记录一些能用的MusicFree插件
     https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/at.js
